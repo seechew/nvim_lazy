@@ -1,0 +1,2 @@
+
+Update plugins with :PlugUpdate 
